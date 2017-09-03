@@ -5,7 +5,7 @@
  </head>
  <body bgcolor="pink">
 <?php
-echo "<p>My first PHP script!</p>";
+echo "<p>Hello World!</p>";
 ?>
 </body>
 </html>
